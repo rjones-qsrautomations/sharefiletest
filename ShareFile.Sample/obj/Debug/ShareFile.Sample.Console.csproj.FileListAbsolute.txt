@@ -1,0 +1,16 @@
+C:\GitLabRepositories\ShareFile-NET-master\ShareFile-NET-master\Samples\ShareFile.Sample\ShareFile.Sample\bin\Debug\SampleFileUpload.txt
+C:\GitLabRepositories\ShareFile-NET-master\ShareFile-NET-master\Samples\ShareFile.Sample\ShareFile.Sample\bin\Debug\ShareFile.Sample.exe.config
+C:\GitLabRepositories\ShareFile-NET-master\ShareFile-NET-master\Samples\ShareFile.Sample\ShareFile.Sample\bin\Debug\ShareFile.Sample.exe
+C:\GitLabRepositories\ShareFile-NET-master\ShareFile-NET-master\Samples\ShareFile.Sample\ShareFile.Sample\bin\Debug\ShareFile.Sample.pdb
+C:\GitLabRepositories\ShareFile-NET-master\ShareFile-NET-master\Samples\ShareFile.Sample\ShareFile.Sample\bin\Debug\Newtonsoft.Json.dll
+C:\GitLabRepositories\ShareFile-NET-master\ShareFile-NET-master\Samples\ShareFile.Sample\ShareFile.Sample\bin\Debug\ShareFile.Api.Client.dll
+C:\GitLabRepositories\ShareFile-NET-master\ShareFile-NET-master\Samples\ShareFile.Sample\ShareFile.Sample\bin\Debug\System.Buffers.dll
+C:\GitLabRepositories\ShareFile-NET-master\ShareFile-NET-master\Samples\ShareFile.Sample\ShareFile.Sample\bin\Debug\Newtonsoft.Json.xml
+C:\GitLabRepositories\ShareFile-NET-master\ShareFile-NET-master\Samples\ShareFile.Sample\ShareFile.Sample\bin\Debug\ShareFile.Api.Client.xml
+C:\GitLabRepositories\ShareFile-NET-master\ShareFile-NET-master\Samples\ShareFile.Sample\ShareFile.Sample\bin\Debug\System.Buffers.xml
+C:\GitLabRepositories\ShareFile-NET-master\ShareFile-NET-master\Samples\ShareFile.Sample\ShareFile.Sample\obj\Debug\ShareFile.Sample.Console.csproj.AssemblyReference.cache
+C:\GitLabRepositories\ShareFile-NET-master\ShareFile-NET-master\Samples\ShareFile.Sample\ShareFile.Sample\obj\Debug\ShareFile.Sample.Console.csproj.SuggestedBindingRedirects.cache
+C:\GitLabRepositories\ShareFile-NET-master\ShareFile-NET-master\Samples\ShareFile.Sample\ShareFile.Sample\obj\Debug\ShareFile.Sample.Console.csproj.CoreCompileInputs.cache
+C:\GitLabRepositories\ShareFile-NET-master\ShareFile-NET-master\Samples\ShareFile.Sample\ShareFile.Sample\obj\Debug\ShareFile.Sample.Console.csproj.CopyComplete
+C:\GitLabRepositories\ShareFile-NET-master\ShareFile-NET-master\Samples\ShareFile.Sample\ShareFile.Sample\obj\Debug\ShareFile.Sample.exe
+C:\GitLabRepositories\ShareFile-NET-master\ShareFile-NET-master\Samples\ShareFile.Sample\ShareFile.Sample\obj\Debug\ShareFile.Sample.pdb
