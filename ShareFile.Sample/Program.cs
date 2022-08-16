@@ -74,6 +74,7 @@ namespace ShareFile.Sample
             Console.WriteLine("Uploaded - " + uploadedFile.Name);
 
             // Download a file
+            
             await Download(sfClient, uploadedFile);
             Console.WriteLine("Downloaded - " + uploadedFile.Name);
 
@@ -122,7 +123,7 @@ namespace ShareFile.Sample
         
         public static async Task<string> Upload(ShareFileClient sfClient, Folder destinationFolder)
         {
-            var file = System.IO.File.Open("SampleFileUpload.txt", FileMode.OpenOrCreate);
+            var file = System.IO.File.Open("SampleFileUpload1.txt", FileMode.OpenOrCreate);
             var uploadRequest = new UploadSpecificationRequest
             {
                 FileName = "SampleFileUpload.txt",
